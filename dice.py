@@ -1,5 +1,7 @@
 import random
 
+#ENJOY !!!!
+
 start = input ("Do you want to roll the die ?")
 
 def dice ():
